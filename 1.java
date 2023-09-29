@@ -4,3 +4,7 @@ public class Main {
   }
 }
 edited
+<<<<<<< HEAD
+=======
+another time
+>>>>>>> dev2
